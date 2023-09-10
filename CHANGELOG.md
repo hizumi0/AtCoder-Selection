@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.5.0](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/releases/tag/v1.5.0) / 2023-09-10
+
+* [#5](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/5) update README.md
+* [#5](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/5) update CHANGELOG.md
+
 ## [v1.4.0](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/releases/tag/v1.4.0) / 2023-08-13
 
 * [#4](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/4) upgrade pycodestyle 2.10.0 => 2.11.0
