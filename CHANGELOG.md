@@ -1,10 +1,16 @@
 # Change Log
 
+## [v1.7.0](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/releases/tag/v1.7.0) / 2024-07-21
+
+* [#10](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/10) upgrade pycodestyle 2.11.1 => 2.12.0
+* [#10](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/10) update README.md
+* [#10](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/10) update CHANGELOG.md
+
 ## [v1.6.0](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/releases/tag/v1.6.0) / 2023-10-22
 
-* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/7) upgrade pycodestyle 2.11.0 => 2.11.1
-* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/7) update README.md
-* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/7) update CHANGELOG.md
+* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/9) upgrade pycodestyle 2.11.0 => 2.11.1
+* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/9) update README.md
+* [#9](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/pull/9) update CHANGELOG.md
 
 ## [v1.5.0](https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection/releases/tag/v1.5.0) / 2023-09-10
 
