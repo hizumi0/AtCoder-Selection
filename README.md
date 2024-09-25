@@ -8,5 +8,5 @@ This repository publishes codes listed in [AtCoderに登録したら解くべき
 ## Clone
 
 ```bash
-$ git clone https://github.com/KoyanagiHitoshi/AtCoder-Beginners-Selection.git
+$ git clone 
 ```
